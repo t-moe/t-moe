@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Timo !
 
-I'm a software developer passionate about all things non-GUI! My work and interests center around systems programming and low-level development. You'll find me mostly working on projects in Rust, C++, Linux, and embedded systems.
+I'm a software developer passionate about systems programming! You'll find me mostly working on projects in Rust, C++, Linux, and embedded systems.
 
 I also have my own consulting business and am available to help with software development needs, especially for systems-level and embedded projects.
 
